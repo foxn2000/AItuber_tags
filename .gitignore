@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+env/
+.venv/  
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# test
+test.py
